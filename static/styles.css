@@ -1,0 +1,39 @@
+body {
+    background-color: #AAD2BA;
+    color: #C7EAD9;
+}
+
+#app {
+    background-color: #1D1E18;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px #6B8F71;
+}
+
+input, .form-control {
+    background-color: #6B8F71;
+    color: #C7EAD9;
+    border: none;
+}
+
+.btn {
+    background-color: #6B8F71;
+    color: #C7EAD9;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #5a7158;
+}
+
+#generated_ips {
+    list-style-type: none;
+    padding: 0;
+}
+
+.bg-dark {
+    background-color: #6B8F71 !important;
+}
+
+.generate-btn {
+    margin-top: 10px; /* or any desired space */
+}
